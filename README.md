@@ -36,8 +36,4 @@ The lesson uses Python built-ins, with no additional Python packages required. U
 - **CONTRIBUTING.md** — organization and naming guide
 - **.gitignore** — excludes temporary files and local environments
 
-## Adding future work
 
-Keep lessons in learning order with names such as `02_descriptive_topic.ipynb`. Add a link and short topic summary here whenever you add a notebook.
-
-See [the organization guide](CONTRIBUTING.md) for guidance on datasets, scripts, and supporting material.
